@@ -41,3 +41,11 @@ git config --global user.email "youremail@gmail.com"
 Initializing a Git Repository
 git init
 
+Adding files into the staging area
+git add .
+
+Shows the status of our files.
+git status
+
+Create a commit
+git commit -m "This is the description."
