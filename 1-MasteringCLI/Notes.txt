@@ -1,0 +1,43 @@
+mkdir - make directory command
+mkdir [directory name]
+
+rmdir - remove directory
+rmdir [directory_name]
+
+cls or Clear - clear code
+
+pwd: Print/present working directory
+pwd
+
+ls: List command
+ls
+
+cd: change directory
+cd [directory_path]
+
+cd ..: Go back one directory.
+cd ..
+
+touch: create files
+touch [file_name]
+
+rm: Removes files
+rm [file_name]
+
+cp: Copy files
+cp [source_file] [destination_path]
+
+mv: move files
+mv [source_file] [destination_path]
+
+mv: Rename files
+mv [old_filename] [new_filename]
+
+git config --global user.name "Username"
+
+git config --global user.email "youremail@gmail.com"
+
+
+Initializing a Git Repository
+git init
+
