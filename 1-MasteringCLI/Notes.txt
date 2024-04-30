@@ -61,5 +61,7 @@ git branch - gives branch by * branch
 
 git branch <branch_name> makes a new branch
 
+
 git checkout [name]
 
+git log --oneline - gives a summary of changesgit
