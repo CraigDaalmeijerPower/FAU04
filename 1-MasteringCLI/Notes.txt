@@ -49,3 +49,17 @@ git status
 
 Create a commit
 git commit -m "This is the description."
+
+git log - log of commit history with username and author
+
+git init = working
+git add = staging
+git commit = Commit 
+
+
+git branch - gives branch by * branch
+
+git branch <branch_name> makes a new branch
+
+git checkout [name]
+
